@@ -75,8 +75,13 @@ DerivedDataCache/*
 
 # Starter Content Ignore
 Content/StarterContent/*
+Content/LevelPrototyping/*
+
+# FirstPerson Ignore
+Content/FirstPerson/*
+Content/FirstPersonArms/*
+Content/FPWeapon/*
 
 # ThirdPerson Ignore
 Content/ThirdPerson/*
-Content/LevelPrototyping/*
 Content/Characters/*
